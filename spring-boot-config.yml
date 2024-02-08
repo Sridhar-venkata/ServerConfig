@@ -1,3 +1,0 @@
-my.greeting= hell i am from spring boot config specific microservice
-my.app= spring boot config
-my.data=i am a ${my.app} player
